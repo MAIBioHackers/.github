@@ -1,1 +1,1 @@
-# The group for AI minor
+The repository for github settings.
