@@ -1,1 +1,1 @@
-# .github
+# The group for AI minor
